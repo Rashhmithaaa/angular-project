@@ -1,5 +1,5 @@
 .listing {
-    background-color:lightskyblue;
+    background-color:rgb(224, 133, 136);
     border-radius: 30px;
     padding-bottom: 30px;
   }
@@ -28,4 +28,7 @@
   section.listing a::after {
     content: "\203A";
     margin-left: 5px;
+  }
+  section.listing:hover a {
+    color: white;
   }

@@ -99,6 +99,17 @@
     "availableUnits": 6,
     "wifi": true,
     "laundry": true
+    },
+    {
+    "id": 10,
+    "name": "Mandavi",
+    "city": "Udupi",
+    "state": "KA",
+    "photo": "https://th.bing.com/th/id/OIP._yC174sEBWELImhmt0sS8gHaE2?w=267&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "availableUnits": 4,
+    "wifi": true,
+    "bus":true,
+    "laundry":true
     }
     ]
     }
